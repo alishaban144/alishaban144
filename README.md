@@ -1,6 +1,6 @@
 # Ali Shaaban
 
-I am studying for an M.Sc. in Digital Transformation at FH Dortmund, with a B.Sc. in Computer Science. My work combines software development, applied AI and experience in web analytics and science communication.
+M.Sc. student in Digital Transformation at FH Dortmund, with a B.Sc. in Computer Science. My work combines software development, applied AI and experience in web analytics and science communication.
 
 ## Selected projects
 
