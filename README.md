@@ -1,4 +1,4 @@
-# Ali Shaaban
+ # Ali Shaaban
 
 M.Sc. student in Digital Transformation at FH Dortmund, with a B.Sc. in Computer Science. My work combines software development, applied AI and experience in web analytics and science communication.
 
@@ -29,4 +29,4 @@ A multilingual café application with a product menu, basket and brewing guide, 
 
 ## Background
 
-Alongside my studies, I work remotely as a freelance web analyst for I Believe in Science. That work involves analysing website performance and communicating findings to colleagues with different technical backgrounds.
+Alongside my studies, I work remotely as a freelance web analyst for I Believe in Science and Ideas Beyond Borders NGOs. That work involves analysing website performance and communicating findings to colleagues with different technical backgrounds.
